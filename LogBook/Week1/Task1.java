@@ -1,4 +1,4 @@
 package LogBook.Week1;
 
-public class Main {
+public class Task1 {
 }
